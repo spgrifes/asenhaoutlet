@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://asenhaoutlet.com.br/sitemap.xml
